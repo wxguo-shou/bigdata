@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HDFSClient" />
+        <module name="maven-project02" />
+        <module name="test" />
+        <module name="maven_project01" />
+        <module name="hdfs" />
+        <module name="maven-projectA" />
+        <module name="maven-projectB" />
+        <module name="MapReduceDemo (1)" />
+        <module name="maven-projectC" />
+        <module name="MapReduceDemo (2)" />
+        <module name="fsclient" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

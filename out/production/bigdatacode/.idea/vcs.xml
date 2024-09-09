@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flink_second" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/realtime_four" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/realtime_warehouse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zookeeper" vcs="Git" />
+  </component>
+</project>
